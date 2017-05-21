@@ -67,7 +67,7 @@ class AverageCogs:
             import urllib.request
             urllib.request.urlretrieve (url, "school.jpg")
             await self.bot.send_file(ctx.message.channel, 'school.jpg')
-        execpt:
+        except:
             text = "The school number {} belongs to nobody :c".format(LunchNumber)
             await self.bot.say(text)
             
