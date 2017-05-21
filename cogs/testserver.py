@@ -62,12 +62,16 @@ class AverageCogs:
     @commands.command(aliases=['sp'],pass_context=True, no_pm=True)
     async def schoolphoto(self, ctx, Year, LunchNumber):
         """Use this command to look up any kids school photo in PASCO Florida ~ Dylan"""
-
-        url = "https://pasco.focusschoolsoftware.com/uploaded-assets/{}/{}.jpg".format(Year, LunchNumber)
-        import urllib.request
-        urllib.request.urlretrieve (url, "school.jpg")
-        await self.bot.send_file(ctx.message.channel, 'school.jpg')
-
+        try:
+            url = "https://pasco.focusschoolsoftware.com/uploaded-assets/{}/{}.jpg".format(Year, LunchNumber)
+            import urllib.request
+            urllib.request.urlretrieve (url, "school.jpg")
+            await self.bot.send_file(ctx.message.channel, 'school.jpg')
+        execpt:
+            text = "The school number {} belongs to nobody :c".format(LunchNumber)
+            await self.bot.say(text)
+            
+            
 
     @commands.command()
     async def rape(self, user: discord.Member, Amount):
