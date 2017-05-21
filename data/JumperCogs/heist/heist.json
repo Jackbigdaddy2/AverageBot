@@ -1,0 +1,124 @@
+{
+    "Servers" : {
+        "212257996238094337" : {
+            "Config" : {
+                "Alert" : 478,
+                "Alert Time" : 0,
+                "Bail Base" : 500,
+                "Crew Output" : "None",
+                "Death Timer" : 86400,
+                "Hardcore" : false,
+                "Heist Cost" : 100,
+                "Heist Planned" : false,
+                "Heist Start" : false,
+                "Police Alert" : 60,
+                "Sentence Base" : 600,
+                "Theme" : "Pirate",
+                "Wait Time" : 20
+            },
+            "Crew" : {},
+            "Players" : {
+                "150713845835497473" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 0,
+                    "Name" : "HeyItsShuga",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 1
+                },
+                "212257636647698432" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 0,
+                    "Name" : "\ud835\udcdc\ud835\udcec\ud835\udcdd\ud835\udcfe\ud835\udcf0\ud835\udcf0\ud835\udcee\ud835\udcfd",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 1
+                },
+                "248904840879669249" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 0,
+                    "Name" : "musicalgamr",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 2
+                },
+                "255048436955480065" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 1,
+                    "Name" : "HEX R3D",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 2,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 1
+                },
+                "257869371269971968" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "SuperGamingHD",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                }
+            },
+            "Targets" : {
+                "Daillan Pow" : {
+                    "Crew" : 3,
+                    "Success" : 67,
+                    "Vault" : 1000,
+                    "Vault Max" : 1000
+                },
+                "Donald Trump" : {
+                    "Crew" : 5,
+                    "Success" : 79,
+                    "Vault" : 500,
+                    "Vault Max" : 500
+                },
+                "Lonely Sponge" : {
+                    "Crew" : 1,
+                    "Success" : 67,
+                    "Vault" : 500,
+                    "Vault Max" : 500
+                }
+            },
+            "Theme" : {
+                "Bail" : "bribe",
+                "Crew" : "crew",
+                "Heist" : "raid",
+                "Jail" : "brig",
+                "OOB" : "good will",
+                "Police" : "Royal Navy",
+                "Sentence" : "punishment",
+                "Vault" : "treasure"
+            }
+        }
+    }
+}

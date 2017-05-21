@@ -1,0 +1,48 @@
+{
+    "PLAYERS" : {
+        "212257636647698432" : {
+            "MSG" : {
+                "joiningMsg" : "a Newbie",
+                "playerMsg" : "nomsg",
+                "victoryMsg" : "nomsg"
+            },
+            "STATS" : {
+                "avarageTimeGame" : 348.0,
+                "averageTimeTurn" : 0.3333333333333333,
+                "draw" : 0,
+                "loss" : 1,
+                "points" : 30,
+                "totalMoves" : 15,
+                "wasted" : 0,
+                "won" : 0
+            },
+            "boardId" : "noGame",
+            "playerId" : "212257636647698432",
+            "playerName" : "\ud835\udcdc\ud835\udcec\ud835\udcdd\ud835\udcfe\ud835\udcf0\ud835\udcf0\ud835\udcee\ud835\udcfd",
+            "tokenAssinged" : 1,
+            "tokenPreferred" : 1
+        },
+        "255048436955480065" : {
+            "MSG" : {
+                "joiningMsg" : "a Newbie",
+                "playerMsg" : "nomsg",
+                "victoryMsg" : "nomsg"
+            },
+            "STATS" : {
+                "avarageTimeGame" : 348.0,
+                "averageTimeTurn" : 0.125,
+                "draw" : 0,
+                "loss" : 0,
+                "points" : 50,
+                "totalMoves" : 16,
+                "wasted" : 0,
+                "won" : 1
+            },
+            "boardId" : "noGame",
+            "playerId" : "255048436955480065",
+            "playerName" : "HEX R3D",
+            "tokenAssinged" : 5,
+            "tokenPreferred" : 0
+        }
+    }
+}

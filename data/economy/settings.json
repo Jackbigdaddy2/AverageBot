@@ -1,0 +1,10 @@
+{
+    "212257996238094337" : {
+        "PAYDAY_CREDITS" : 1000,
+        "PAYDAY_TIME" : 3600,
+        "REGISTER_CREDITS" : 2000,
+        "SLOT_MAX" : 1000,
+        "SLOT_MIN" : 5,
+        "SLOT_TIME" : 0
+    }
+}

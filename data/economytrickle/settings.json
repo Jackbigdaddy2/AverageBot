@@ -1,0 +1,11 @@
+{
+    "212257996238094337" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "CHANCE_TO_PAYOUT" : 50,
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TRICKLE_BOT" : false
+    }
+}

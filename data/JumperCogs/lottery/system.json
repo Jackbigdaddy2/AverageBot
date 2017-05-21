@@ -1,0 +1,37 @@
+{
+    "Servers" : {
+        "212257996238094337" : {
+            "Config" : {
+                "Fun Text" : false,
+                "Lottery Active" : false,
+                "Lottery Count" : 1,
+                "Lottery Member Requirement" : false,
+                "Lottery Prize" : 0,
+                "Lottery Winners" : 1,
+                "Membership Freeze" : false,
+                "Powerball Active" : false,
+                "Powerball Combo Payouts" : [
+                    2.0,
+                    3.0,
+                    10
+                ],
+                "Powerball Day" : "Sunday",
+                "Powerball Grace Period" : 1,
+                "Powerball Jackpot" : 3000,
+                "Powerball Jackpot Multiplier" : 2.0,
+                "Powerball Jackpot Percentage" : 0.31,
+                "Powerball Jackpot Preset" : 500,
+                "Powerball Jackpot Type" : "Preset",
+                "Powerball Reoccuring" : true,
+                "Powerball Ticket Cost" : 0,
+                "Powerball Ticket Limit" : 0,
+                "Powerball Time" : "1700",
+                "Powerball Winning Ticket" : null,
+                "Prize Amount" : 0,
+                "Signup Role" : null
+            },
+            "Lottery Members" : {},
+            "Lottery Players" : {}
+        }
+    }
+}

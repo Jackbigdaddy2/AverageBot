@@ -1,0 +1,32 @@
+{
+    "build" : {
+        "212257996238094337" : {
+            "youtube" : {
+                "frame" : "white",
+                "small" : false
+            }
+        },
+        "213079524819075072" : {
+            "youtube" : {
+                "frame" : "white",
+                "small" : false
+            }
+        }
+    },
+    "text" : {
+        "212257996238094337" : {
+            "bot_sign" : "sinon"
+        },
+        "213079524819075072" : {
+            "bot_sign" : "sinon"
+        }
+    },
+    "userbar" : {
+        "212257996238094337" : {
+            "background" : "data/drawing/bg.png"
+        },
+        "213079524819075072" : {
+            "background" : "data/drawing/bg.png"
+        }
+    }
+}

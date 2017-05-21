@@ -1,0 +1,64 @@
+{
+    "Servers" : {
+        "212257996238094337" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Manual",
+                "Shop Name" : "Jumpman's",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Shop Role" : null,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {},
+            "Shop List" : {
+                "Stratocaster" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 500,
+                    "Item Name" : "Stratocaster",
+                    "Members Only" : "No",
+                    "Quantity" : 1
+                }
+            },
+            "Users" : {
+                "212257636647698432" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "248904840879669249" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "One Of A Kind Object" : {
+                            "Item Name" : "One Of A Kind Object",
+                            "Item Quantity" : 1
+                        },
+                        "Stratocaster" : {
+                            "Item Name" : "Stratocaster",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "255048436955480065" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Stratocaster" : {
+                            "Item Name" : "Stratocaster",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                }
+            }
+        }
+    },
+    "Version" : "2.2.52"
+}

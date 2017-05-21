@@ -1,0 +1,853 @@
+{
+    "26-Cogs" : {
+        "cleverbot" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\cleverbot\\cleverbot.py",
+            "folder" : "data\\downloader\\26-Cogs\\cleverbot"
+        },
+        "insult" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\insult\\insult.py",
+            "folder" : "data\\downloader\\26-Cogs\\insult"
+        },
+        "nomassmentions" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\nomassmentions\\nomassmentions.py",
+            "folder" : "data\\downloader\\26-Cogs\\nomassmentions"
+        },
+        "penis" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\penis\\penis.py",
+            "folder" : "data\\downloader\\26-Cogs\\penis"
+        },
+        "remindme" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\remindme\\remindme.py",
+            "folder" : "data\\downloader\\26-Cogs\\remindme"
+        },
+        "rift" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\rift\\rift.py",
+            "folder" : "data\\downloader\\26-Cogs\\rift"
+        },
+        "rndstatus" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\rndstatus\\rndstatus.py",
+            "folder" : "data\\downloader\\26-Cogs\\rndstatus"
+        },
+        "stickyroles" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\stickyroles\\stickyroles.py",
+            "folder" : "data\\downloader\\26-Cogs\\stickyroles"
+        },
+        "trigger" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\trigger\\trigger.py",
+            "folder" : "data\\downloader\\26-Cogs\\trigger"
+        },
+        "url" : "https://github.com/Twentysix26/26-Cogs"
+    },
+    "Dumb-Cogs" : {
+        "adventure" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\adventure\\adventure.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\adventure"
+        },
+        "alot" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\alot\\alot.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\alot"
+        },
+        "economytrickle" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\economytrickle\\economytrickle.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\economytrickle"
+        },
+        "engine" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\engine\\engine.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\engine"
+        },
+        "hal" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\hal\\hal.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\hal"
+        },
+        "ide" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\ide\\ide.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\ide"
+        },
+        "lolz" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\lolz\\lolz.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\lolz"
+        },
+        "noflippedtables" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\noflippedtables\\noflippedtables.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\noflippedtables"
+        },
+        "ping" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\ping\\ping.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\ping"
+        },
+        "repl" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\repl\\repl.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\repl"
+        },
+        "sadface" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\sadface\\sadface.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\sadface"
+        },
+        "snacktime" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\snacktime\\snacktime.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\snacktime"
+        },
+        "url" : "https://github.com/irdumbs/Dumb-Cogs",
+        "welcome" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\welcome\\welcome.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\welcome"
+        }
+    },
+    "Dusty-Cogs" : {
+        "autorole" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\autorole\\autorole.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\autorole"
+        },
+        "desutils" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\desutils\\desutils.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\desutils"
+        },
+        "greet" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\greet\\greet.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\greet"
+        },
+        "menu" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\menu\\menu.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\menu"
+        },
+        "moji" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\moji\\moji.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\moji"
+        },
+        "pathfinder" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\pathfinder\\pathfinder.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\pathfinder"
+        },
+        "requester" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\requester\\requester.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\requester"
+        },
+        "url" : "https://github.com/Lunar-Dust/Dusty-Cogs"
+    },
+    "Jumper-Cogs" : {
+        "animelist" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\animelist\\animelist.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\animelist"
+        },
+        "casino" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\casino\\casino.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\casino"
+        },
+        "cookie" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\cookie\\cookie.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\cookie"
+        },
+        "coupon" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\coupon\\coupon.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\coupon"
+        },
+        "dicetable" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\dicetable\\dicetable.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\dicetable"
+        },
+        "fortune" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\fortune\\fortune.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\fortune"
+        },
+        "heist" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\heist\\heist.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\heist"
+        },
+        "language" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\language\\language.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\language"
+        },
+        "lottery" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\lottery\\lottery.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\lottery"
+        },
+        "pokedex" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\pokedex\\pokedex.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\pokedex"
+        },
+        "raffle" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\raffle\\raffle.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\raffle"
+        },
+        "russianroulette" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\russianroulette\\russianroulette.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\russianroulette"
+        },
+        "shop" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Jumper-Cogs\\shop\\shop.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\shop"
+        },
+        "tibia" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Jumper-Cogs\\tibia\\tibia.py",
+            "folder" : "data\\downloader\\Jumper-Cogs\\tibia"
+        },
+        "url" : "https://github.com/Redjumpman/Jumper-Cogs"
+    },
+    "Mash-Cogs" : {
+        "bartender" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\bartender\\bartender.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\bartender"
+        },
+        "fourinarow" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Mash-Cogs\\fourinarow\\fourinarow.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\fourinarow"
+        },
+        "freesound" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\freesound\\freesound.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\freesound"
+        },
+        "identicon" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\identicon\\identicon.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\identicon"
+        },
+        "imdb" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\imdb\\imdb.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\imdb"
+        },
+        "oboobs" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\oboobs\\oboobs.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\oboobs"
+        },
+        "omaps" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\omaps\\omaps.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\omaps"
+        },
+        "torrent" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\torrent\\torrent.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\torrent"
+        },
+        "translated" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\translated\\translated.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\translated"
+        },
+        "url" : "https://github.com/Canule/Mash-Cogs",
+        "weatherMs" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\weatherMs\\weatherMs.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\weatherMs"
+        },
+        "wikipedia" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Mash-Cogs\\wikipedia\\wikipedia.py",
+            "folder" : "data\\downloader\\Mash-Cogs\\wikipedia"
+        }
+    },
+    "Maybe-Useful-Cogs" : {
+        "discomegle" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Maybe-Useful-Cogs\\discomegle\\discomegle.py",
+            "folder" : "data\\downloader\\Maybe-Useful-Cogs\\discomegle"
+        },
+        "leveler" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Maybe-Useful-Cogs\\leveler\\leveler.py",
+            "folder" : "data\\downloader\\Maybe-Useful-Cogs\\leveler"
+        },
+        "markov" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Maybe-Useful-Cogs\\markov\\markov.py",
+            "folder" : "data\\downloader\\Maybe-Useful-Cogs\\markov"
+        },
+        "osu" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Maybe-Useful-Cogs\\osu\\osu.py",
+            "folder" : "data\\downloader\\Maybe-Useful-Cogs\\osu"
+        },
+        "url" : "https://github.com/AznStevy/Maybe-Useful-Cogs",
+        "whoplays" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Maybe-Useful-Cogs\\whoplays\\whoplays.py",
+            "folder" : "data\\downloader\\Maybe-Useful-Cogs\\whoplays"
+        }
+    },
+    "Neko-Cogs" : {
+        "Nookpedia" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\Nookpedia\\Nookpedia.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\Nookpedia"
+        },
+        "Q20" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\Q20\\Q20.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\Q20"
+        },
+        "account" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\account\\account.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\account"
+        },
+        "botstats" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\botstats\\botstats.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\botstats"
+        },
+        "customhelp" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\customhelp\\customhelp.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\customhelp"
+        },
+        "fuck" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\fuck\\fuck.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\fuck"
+        },
+        "getfortune" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\getfortune\\getfortune.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\getfortune"
+        },
+        "news" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\news\\news.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\news"
+        },
+        "onjoin" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\onjoin\\onjoin.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\onjoin"
+        },
+        "pressf" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\pressf\\pressf.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\pressf"
+        },
+        "selfembed" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\selfembed\\selfembed.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\selfembed"
+        },
+        "transformice" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Neko-Cogs\\transformice\\transformice.py",
+            "folder" : "data\\downloader\\Neko-Cogs\\transformice"
+        },
+        "url" : "https://github.com/NekoTony/Neko-Cogs"
+    },
+    "ORELS-Cogs" : {
+        "apitools" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\apitools\\apitools.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\apitools"
+        },
+        "dota" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\dota\\dota.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\dota"
+        },
+        "drawing" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\drawing\\drawing.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\drawing"
+        },
+        "fetch" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\fetch\\fetch.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\fetch"
+        },
+        "gaming" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\gaming\\gaming.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\gaming"
+        },
+        "roller" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\roller\\roller.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\roller"
+        },
+        "steam" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\ORELS-Cogs\\steam\\steam.py",
+            "folder" : "data\\downloader\\ORELS-Cogs\\steam"
+        },
+        "url" : "https://github.com/orels1/ORELS-Cogs"
+    },
+    "RitsuCogs" : {
+        "gnu" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\RitsuCogs\\gnu\\gnu.py",
+            "folder" : "data\\downloader\\RitsuCogs\\gnu"
+        },
+        "sysinfo" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\RitsuCogs\\sysinfo\\sysinfo.py",
+            "folder" : "data\\downloader\\RitsuCogs\\sysinfo"
+        },
+        "tokyotosho" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\RitsuCogs\\tokyotosho\\tokyotosho.py",
+            "folder" : "data\\downloader\\RitsuCogs\\tokyotosho"
+        },
+        "url" : "https://github.com/ritsu/RitsuCogs"
+    },
+    "Snake-Cogs" : {
+        "armorsmith" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snake-Cogs\\armorsmith\\armorsmith.py",
+            "folder" : "data\\downloader\\Snake-Cogs\\armorsmith"
+        },
+        "damn-dog" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snake-Cogs\\damn-dog\\damn-dog.py",
+            "folder" : "data\\downloader\\Snake-Cogs\\damn-dog"
+        },
+        "on_join" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snake-Cogs\\on_join\\on_join.py",
+            "folder" : "data\\downloader\\Snake-Cogs\\on_join"
+        },
+        "talk-back" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snake-Cogs\\talk-back\\talk-back.py",
+            "folder" : "data\\downloader\\Snake-Cogs\\talk-back"
+        },
+        "url" : "https://github.com/samclane/Snake-Cogs"
+    },
+    "Snap-ons" : {
+        "lovecalculator" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\lovecalculator\\lovecalculator.py",
+            "folder" : "data\\downloader\\Snap-ons\\lovecalculator"
+        },
+        "planttycoon" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\planttycoon\\planttycoon.py",
+            "folder" : "data\\downloader\\Snap-ons\\planttycoon"
+        },
+        "recyclingplant" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\recyclingplant\\recyclingplant.py",
+            "folder" : "data\\downloader\\Snap-ons\\recyclingplant"
+        },
+        "rpsls" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\rpsls\\rpsls.py",
+            "folder" : "data\\downloader\\Snap-ons\\rpsls"
+        },
+        "scp" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\scp\\scp.py",
+            "folder" : "data\\downloader\\Snap-ons\\scp"
+        },
+        "unicode" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Snap-ons\\unicode\\unicode.py",
+            "folder" : "data\\downloader\\Snap-ons\\unicode"
+        },
+        "url" : "https://github.com/SnappyDragon18/Snap-ons"
+    },
+    "calebj-cogs" : {
+        "activitylog" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\activitylog\\activitylog.py",
+            "folder" : "data\\downloader\\calebj-cogs\\activitylog"
+        },
+        "customgcom" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\customgcom\\customgcom.py",
+            "folder" : "data\\downloader\\calebj-cogs\\customgcom"
+        },
+        "datadog" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\datadog\\datadog.py",
+            "folder" : "data\\downloader\\calebj-cogs\\datadog"
+        },
+        "description" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\calebj-cogs\\description\\description.py",
+            "folder" : "data\\downloader\\calebj-cogs\\description"
+        },
+        "dice" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\dice\\dice.py",
+            "folder" : "data\\downloader\\calebj-cogs\\dice"
+        },
+        "duel" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\duel\\duel.py",
+            "folder" : "data\\downloader\\calebj-cogs\\duel"
+        },
+        "galias" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\galias\\galias.py",
+            "folder" : "data\\downloader\\calebj-cogs\\galias"
+        },
+        "gallery" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\gallery\\gallery.py",
+            "folder" : "data\\downloader\\calebj-cogs\\gallery"
+        },
+        "punish" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\punish\\punish.py",
+            "folder" : "data\\downloader\\calebj-cogs\\punish"
+        },
+        "purgepins" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\purgepins\\purgepins.py",
+            "folder" : "data\\downloader\\calebj-cogs\\purgepins"
+        },
+        "recensor" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\recensor\\recensor.py",
+            "folder" : "data\\downloader\\calebj-cogs\\recensor"
+        },
+        "serverquotes" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\serverquotes\\serverquotes.py",
+            "folder" : "data\\downloader\\calebj-cogs\\serverquotes"
+        },
+        "sinfo" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\sinfo\\sinfo.py",
+            "folder" : "data\\downloader\\calebj-cogs\\sinfo"
+        },
+        "url" : "https://github.com/calebj/calebj-cogs",
+        "watchdog" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\watchdog\\watchdog.py",
+            "folder" : "data\\downloader\\calebj-cogs\\watchdog"
+        },
+        "zalgo" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\calebj-cogs\\zalgo\\zalgo.py",
+            "folder" : "data\\downloader\\calebj-cogs\\zalgo"
+        }
+    },
+    "flapjack-cogs" : {
+        "blizzard" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\blizzard\\blizzard.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\blizzard"
+        },
+        "colorme" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\colorme\\colorme.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\colorme"
+        },
+        "defcon" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\defcon\\defcon.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\defcon"
+        },
+        "dongers" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\dongers\\dongers.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\dongers"
+        },
+        "msgvote" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\msgvote\\msgvote.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\msgvote"
+        },
+        "reactpoll" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\reactpoll\\reactpoll.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\reactpoll"
+        },
+        "sfx" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\sfx\\sfx.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\sfx"
+        },
+        "smartreact" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\smartreact\\smartreact.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\smartreact"
+        },
+        "smite" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\smite\\smite.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\smite"
+        },
+        "spoiler" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\spoiler\\spoiler.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\spoiler"
+        },
+        "url" : "https://github.com/flapjax/FlapJack-Cogs",
+        "wat" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\flapjack-cogs\\wat\\wat.py",
+            "folder" : "data\\downloader\\flapjack-cogs\\wat"
+        }
+    },
+    "maybe-useful-cogs" : {
+        "discomegle" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\maybe-useful-cogs\\discomegle\\discomegle.py",
+            "folder" : "data\\downloader\\maybe-useful-cogs\\discomegle"
+        },
+        "leveler" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\maybe-useful-cogs\\leveler\\leveler.py",
+            "folder" : "data\\downloader\\maybe-useful-cogs\\leveler"
+        },
+        "markov" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\maybe-useful-cogs\\markov\\markov.py",
+            "folder" : "data\\downloader\\maybe-useful-cogs\\markov"
+        },
+        "osu" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\maybe-useful-cogs\\osu\\osu.py",
+            "folder" : "data\\downloader\\maybe-useful-cogs\\osu"
+        },
+        "url" : "https://github.com/AznStevy/Maybe-Useful-Cogs",
+        "whoplays" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\maybe-useful-cogs\\whoplays\\whoplays.py",
+            "folder" : "data\\downloader\\maybe-useful-cogs\\whoplays"
+        }
+    },
+    "refactored-cogs" : {
+        "antilink" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\antilink\\antilink.py",
+            "folder" : "data\\downloader\\refactored-cogs\\antilink"
+        },
+        "buyrole" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\buyrole\\buyrole.py",
+            "folder" : "data\\downloader\\refactored-cogs\\buyrole"
+        },
+        "dynamicvoice" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\dynamicvoice\\dynamicvoice.py",
+            "folder" : "data\\downloader\\refactored-cogs\\dynamicvoice"
+        },
+        "githubcards" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\githubcards\\githubcards.py",
+            "folder" : "data\\downloader\\refactored-cogs\\githubcards"
+        },
+        "google" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\google\\google.py",
+            "folder" : "data\\downloader\\refactored-cogs\\google"
+        },
+        "massmove" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\massmove\\massmove.py",
+            "folder" : "data\\downloader\\refactored-cogs\\massmove"
+        },
+        "punish" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\punish\\punish.py",
+            "folder" : "data\\downloader\\refactored-cogs\\punish"
+        },
+        "sentry" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\refactored-cogs\\sentry\\sentry.py",
+            "folder" : "data\\downloader\\refactored-cogs\\sentry"
+        },
+        "url" : "https://github.com/Kowlin/refactored-cogs"
+    },
+    "snappycogs" : {
+        "lovecalculator" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\snappycogs\\lovecalculator\\lovecalculator.py",
+            "folder" : "data\\downloader\\snappycogs\\lovecalculator"
+        },
+        "planttycoon" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\snappycogs\\planttycoon\\planttycoon.py",
+            "folder" : "data\\downloader\\snappycogs\\planttycoon"
+        },
+        "recyclingplant" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\snappycogs\\recyclingplant\\recyclingplant.py",
+            "folder" : "data\\downloader\\snappycogs\\recyclingplant"
+        },
+        "rpsls" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\snappycogs\\rpsls\\rpsls.py",
+            "folder" : "data\\downloader\\snappycogs\\rpsls"
+        },
+        "scp" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\snappycogs\\scp\\scp.py",
+            "folder" : "data\\downloader\\snappycogs\\scp"
+        },
+        "unicode" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\snappycogs\\unicode\\unicode.py",
+            "folder" : "data\\downloader\\snappycogs\\unicode"
+        },
+        "url" : "https://github.com/SnappyDragon18/SnappyCogs"
+    },
+    "squid-plugins" : {
+        "admin" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\admin\\admin.py",
+            "folder" : "data\\downloader\\squid-plugins\\admin"
+        },
+        "ascii" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\ascii\\ascii.py",
+            "folder" : "data\\downloader\\squid-plugins\\ascii"
+        },
+        "autoapprove" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\autoapprove\\autoapprove.py",
+            "folder" : "data\\downloader\\squid-plugins\\autoapprove"
+        },
+        "botinfo" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\botinfo\\botinfo.py",
+            "folder" : "data\\downloader\\squid-plugins\\botinfo"
+        },
+        "channellogger" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\channellogger\\channellogger.py",
+            "folder" : "data\\downloader\\squid-plugins\\channellogger"
+        },
+        "emotes" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\squid-plugins\\emotes\\emotes.py",
+            "folder" : "data\\downloader\\squid-plugins\\emotes"
+        },
+        "encoder" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\encoder\\encoder.py",
+            "folder" : "data\\downloader\\squid-plugins\\encoder"
+        },
+        "example518" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\example518\\example518.py",
+            "folder" : "data\\downloader\\squid-plugins\\example518"
+        },
+        "hublinker" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\hublinker\\hublinker.py",
+            "folder" : "data\\downloader\\squid-plugins\\hublinker"
+        },
+        "karma" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\karma\\karma.py",
+            "folder" : "data\\downloader\\squid-plugins\\karma"
+        },
+        "lastfm" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\lastfm\\lastfm.py",
+            "folder" : "data\\downloader\\squid-plugins\\lastfm"
+        },
+        "logger" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\logger\\logger.py",
+            "folder" : "data\\downloader\\squid-plugins\\logger"
+        },
+        "mentiontracker" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\mentiontracker\\mentiontracker.py",
+            "folder" : "data\\downloader\\squid-plugins\\mentiontracker"
+        },
+        "nickometer" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\nickometer\\nickometer.py",
+            "folder" : "data\\downloader\\squid-plugins\\nickometer"
+        },
+        "permissions" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\permissions\\permissions.py",
+            "folder" : "data\\downloader\\squid-plugins\\permissions"
+        },
+        "quotes" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\quotes\\quotes.py",
+            "folder" : "data\\downloader\\squid-plugins\\quotes"
+        },
+        "rss" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\rss\\rss.py",
+            "folder" : "data\\downloader\\squid-plugins\\rss"
+        },
+        "rules" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\rules\\rules.py",
+            "folder" : "data\\downloader\\squid-plugins\\rules"
+        },
+        "runescape" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\runescape\\runescape.py",
+            "folder" : "data\\downloader\\squid-plugins\\runescape"
+        },
+        "scheduler" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\scheduler\\scheduler.py",
+            "folder" : "data\\downloader\\squid-plugins\\scheduler"
+        },
+        "selfbotstatus" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\selfbotstatus\\selfbotstatus.py",
+            "folder" : "data\\downloader\\squid-plugins\\selfbotstatus"
+        },
+        "sentryio" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\sentryio\\sentryio.py",
+            "folder" : "data\\downloader\\squid-plugins\\sentryio"
+        },
+        "tickets" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\tickets\\tickets.py",
+            "folder" : "data\\downloader\\squid-plugins\\tickets"
+        },
+        "url" : "https://github.com/tekulvw/Squid-Plugins",
+        "wikia" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\squid-plugins\\wikia\\wikia.py",
+            "folder" : "data\\downloader\\squid-plugins\\wikia"
+        }
+    }
+}
