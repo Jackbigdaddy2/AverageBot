@@ -59,8 +59,8 @@ class AverageCogs:
         await self.bot.say(info)
 
 
-    @commands.command(aliases=['sp'])
-    async def schoolphoto(self, Year, LunchNumber):
+    @commands.command(aliases=['sp'],pass_context=True, no_pm=True)
+    async def schoolphoto(self, ctx, Year, LunchNumber):
         """Use this command to look up any kids school photo in PASCO Florida ~ Dylan"""
 
         url = "https://pasco.focusschoolsoftware.com/uploaded-assets/{}/{}.jpg".format(Year, LunchNumber)
