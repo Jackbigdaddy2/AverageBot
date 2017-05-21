@@ -1,1 +1,1 @@
-Average Bot
+Average Bot.
