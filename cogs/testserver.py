@@ -64,8 +64,9 @@ class AverageCogs:
         """Use this command to look up any kids school photo in PASCO Florida ~ Dylan"""
 
         url = "https://pasco.focusschoolsoftware.com/uploaded-assets/{}/{}.jpg".format(Year, LunchNumber)
-
-        await self.bot.say(url)
+        import urllib.request
+        urllib.request.urlretrieve (url, "school.jpg")
+        await self.bot.send_file(ctx.message.channel, 'school.jpg')
 
 
     @commands.command()
