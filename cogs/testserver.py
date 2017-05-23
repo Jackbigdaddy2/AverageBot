@@ -48,28 +48,6 @@ class AverageCogs:
         
         await self.bot.say(info)
 
-    @commands.command(aliases=['dps'], pass_context=True, no_pm=True)
-    async def dylanspictures(self, ctx, Folder):
-        """Use this command to get a random photo out of Dylan's picture folder C: P.S Please use !dps list to find out all the folder directories!~ Dylan"""
-        channel = ctx.message.channel
-        FileLocation = "Pictures/{}".format(Folder)
-
-        if Folder == 'list':
-            await self.bot.say("Current List Of Folders Are: Pictures, Spongebob, Discord, DumbPicturesOfDylan, TylersWeirdStuff, CuteKiwis, BigDaddysSecrets And BigDaddysIRLPictures")
-        else:
-            try:
-                content ='{} Here is your random photo from the {} folder.'.format(ctx.message.author.mention, Folder)
-                n=0
-                random.seed();
-                for root, dirs, files in os.walk(FileLocation):
-                    for name in files:
-                        n=n+1
-                        if random.uniform(0, n) < 1: rfile=os.path.join(root, name)
-        
-                await self.bot.send_file(channel, rfile, content=content)
-            except:
-                await self.bot.say("Invaild folder name or command")
-
     @commands.command()
     async def id(self, user: discord.Member):
         """Use this command to get someone's Discord id ~ Dylan"""
