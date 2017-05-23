@@ -126,7 +126,7 @@ class AverageCogs:
         
         
     @commands.command()
-    async def Michael(self)
+    async def Michael(self):
         text = "╭━╮╭━╮╱╱╱╭╮╱╱╱╱╱╱╱╭╮\n┃┃╰╯┃┃╱╱╱┃┃╱╱╱╱╱╱╱┃┃\n┃╭╮╭╮┣┳━━┫╰━┳━━┳━━┫┃\n┃┃┃┃┃┣┫╭━┫╭╮┃╭╮┃┃━┫┃\n┃┃┃┃┃┃┃╰━┫┃┃┃╭╮┃┃━┫╰╮\n╰╯╰╯╰┻┻━━┻╯╰┻╯╰┻━━┻━╯\n"
         await self.bot.say(text)
 
