@@ -106,7 +106,7 @@ class Image:
             await self.bot.say("Error: request timed out")
             return
 
-        for item in items[:3]:
+        for item in items[:1]:
             link = item.gifv if hasattr(item, "gifv") else item.link
             links.append("{}\n{}".format(item.title, link))
 
