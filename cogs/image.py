@@ -27,7 +27,7 @@ class Image:
         if ctx.invoked_subcommand is None:
             await self.bot.send_cmd_help(ctx)
 
-    @_imgur.command(pass_context=True, name="random")
+    @_imgur.command(alias=['search'], pass_context=True, name="random")
     async def imgur_random(self, ctx, *, term: str=None):
         """Retrieves a random image from Imgur
 
@@ -68,7 +68,7 @@ class Image:
             if results:
                 shuffle(results)
                 msg = "Search results...\n"
-                for r in results[:3]:
+                for r in results[:1]:
                     msg += r.gifv if hasattr(r, "gifv") else r.link
                     msg += "\n"
                 await self.bot.say(msg)
