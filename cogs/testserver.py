@@ -161,7 +161,6 @@ class AverageCogs:
         for i in range(0,10):
             # Notice that the start changes for each iteration in order to request a new set of images for each loop
             url = ('https://ajax.googleapis.com/ajax/services/search/images?' + 'v=1.0&q='+searchTerm+'&start='+str(i*4)+'&userip=MyIP')
-            print url
             request = urllib2.Request(url, None, {'Referer': 'testing'})
             response = urllib2.urlopen(request)
 
@@ -173,7 +172,6 @@ class AverageCogs:
             # Iterate for each result and get unescaped url
             for myUrl in dataInfo:
                 count = count + 1
-                print myUrl['unescapedUrl']
 
                 #myopener.retrieve(myUrl['unescapedUrl'],str(count)+'.jpg')
                 await self.bot.send_file(ctx.message.channel, myUrl['unescapedUrl'],str(count)+'.jpg')
