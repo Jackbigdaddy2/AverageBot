@@ -23,7 +23,6 @@ import subprocess
 from .utils.dataIO import dataIO
 from .utils import checks
 import sys
-import simplejson
 client = discord.Client()
 
 
