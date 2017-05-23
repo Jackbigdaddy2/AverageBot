@@ -23,9 +23,9 @@ import subprocess
 from .utils.dataIO import dataIO
 from .utils import checks
 import sys
-from urllib import FancyURLopener
 import urllib2
 import simplejson
+from urllib import FancyURLopener
 client = discord.Client()
 
 
