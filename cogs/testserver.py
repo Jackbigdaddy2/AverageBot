@@ -139,8 +139,10 @@ class AverageCogs:
         
         
         
-   @commands.command(aliases=['gi'], pass_context=True, no_pm=True)
-   async def googleimage(self, ctx, *, SearchTerm):
+        
+   
+    @commands.command(aliases=['gi'], pass_context=True, no_pm=True)
+    async def googleimage(self, ctx, *, SearchTerm):
         # Define search term
         searchTerm = SearchTerm
 
