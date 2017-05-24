@@ -52,7 +52,7 @@ class Image:
             else:
                 await self.bot.say("Your search terms gave no results.")
 
-    @_imgur.command(alias=['Search'], pass_context=True, name="search")
+    @_imgur.command(pass_context=True, name="search")
     async def imgur_search(self, ctx, *, term: str):
         """Searches Imgur for the specified term and returns up to 3 results"""
         task = functools.partial(self.imgur.gallery_search, term,
