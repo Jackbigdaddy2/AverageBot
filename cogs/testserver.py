@@ -149,8 +149,8 @@ class AverageCogs:
     async def info(self, ctx):
         Description = 'Youtube - https://www.youtube.com/channel/UC4SQr97CBGMGPpdRpThOu9Q\nTwitch - https://www.twitch.tv/averagefriends\nDiscord Server - https://discord.me/Avrg'
         em = discord.Embed(title='Average Friends Info', description=Description, colour=ChosenColor)
-            em.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
-            await self.bot.send_message(ctx.message.channel, embed=em)
+        em.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
+        await self.bot.send_message(ctx.message.channel, embed=em)
 
 def setup(bot):
     if soupAvailable:
