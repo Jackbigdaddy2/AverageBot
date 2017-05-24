@@ -146,7 +146,7 @@ class AverageCogs:
         
         
     @commands.command(pass_context=True, no_pm=True)
-    async def info(self, ctx):
+    async def about(self, ctx):
         Text = 'Youtube - https://www.youtube.com/channel/UC4SQr97CBGMGPpdRpThOu9Q\nTwitch - https://www.twitch.tv/averagefriends\nDiscord Server - https://discord.me/Avrg'
         await self.bot.say(Text)
 
