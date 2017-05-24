@@ -139,8 +139,8 @@ class AverageCogs:
         await self.bot.send_message(ctx.message.channel, embed=em)
         
         
-    @commands.command()
-    async def googletranslate(aliases=['gt'], Language, *, Text):
+    @commands.command(aliases=['gt'])
+    async def googletranslate(Language, *, Text):
         gs = goslate.Goslate()
         await self.bot.say(gs.translate(Text, Language))
         
