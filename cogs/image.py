@@ -27,7 +27,7 @@ class Image:
         if ctx.invoked_subcommand is None:
             await self.bot.send_cmd_help(ctx)
 
-    @_imgur.command(alias=['search'], pass_context=True, name="random")
+    @_imgur.command(pass_context=True, name="random")
     async def imgur_random(self, ctx, *, term: str=None):
         """Retrieves a random image from Imgur
 
@@ -52,7 +52,7 @@ class Image:
             else:
                 await self.bot.say("Your search terms gave no results.")
 
-    @_imgur.command(pass_context=True, name="search")
+    @_imgur.command(alias=['Search'], pass_context=True, name="search")
     async def imgur_search(self, ctx, *, term: str):
         """Searches Imgur for the specified term and returns up to 3 results"""
         task = functools.partial(self.imgur.gallery_search, term,
