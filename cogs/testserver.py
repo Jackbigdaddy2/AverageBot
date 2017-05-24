@@ -23,6 +23,7 @@ import subprocess
 from .utils.dataIO import dataIO
 from .utils import checks
 import sys
+import goslate
 client = discord.Client()
 
 
@@ -137,6 +138,11 @@ class AverageCogs:
         em.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
         await self.bot.send_message(ctx.message.channel, embed=em)
         
+        
+    @commands.command()
+    async def googletranslate(alias=['gt'], *, Text)
+        gs = goslate.Goslate()
+        print(gs.translate(Text, 'de'))
         
 
 def setup(bot):
