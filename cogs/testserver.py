@@ -140,9 +140,9 @@ class AverageCogs:
         
         
     @commands.command()
-    async def googletranslate(alias=['gt'], *, Text):
+    async def googletranslate(aliases=['gt'], Language, *, Text):
         gs = goslate.Goslate()
-        print(gs.translate(Text, 'de'))
+        await self.bot.say(gs.translate(Text, Language))
         
 
 def setup(bot):
