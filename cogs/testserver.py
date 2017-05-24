@@ -147,8 +147,11 @@ class AverageCogs:
         
     @commands.command(pass_context=True, no_pm=True)
     async def about(self, ctx):
+        ChosenColor = discord.Colour.dark_purple()
         Text = 'Youtube - https://www.youtube.com/channel/UC4SQr97CBGMGPpdRpThOu9Q\nTwitch - https://www.twitch.tv/averagefriends\nDiscord Server - https://discord.me/Avrg'
-        await self.bot.say(Text)
+        em = discord.Embed(title='Average Frinds Info', description=Text, colour=ChosenColor)
+        em.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
+        await self.bot.send_message(ctx.message.channel, embed=em)
 
 def setup(bot):
     if soupAvailable:
