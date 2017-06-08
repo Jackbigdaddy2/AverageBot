@@ -1,29 +1,24 @@
 {
     "212257996238094337" : {
         "144433928155955200" : {
-            "balance" : 98190,
+            "balance" : 104190,
             "created_at" : "2017-05-14 01:56:30",
             "name" : "bigdaddy2"
         },
         "150713845835497473" : {
-            "balance" : 82890,
+            "balance" : 84890,
             "created_at" : "2017-05-04 21:38:37",
             "name" : "HeyItsShuga"
         },
         "212257636647698432" : {
-            "balance" : 118000,
+            "balance" : 125000,
             "created_at" : "2017-05-04 01:33:19",
             "name" : "\ud835\udcdc\ud835\udcec\ud835\udcdd\ud835\udcfe\ud835\udcf0\ud835\udcf0\ud835\udcee\ud835\udcfd"
         },
         "212329457032101888" : {
-            "balance" : 72000,
+            "balance" : 7000,
             "created_at" : "2017-05-04 23:49:20",
             "name" : "Mr Rutabaga"
-        },
-        "248904840879669249" : {
-            "balance" : 8996,
-            "created_at" : "2017-05-04 20:43:37",
-            "name" : "musicalgamr"
         },
         "250096780048334850" : {
             "balance" : 40000,
@@ -34,11 +29,6 @@
             "balance" : 34000,
             "created_at" : "2017-05-04 19:58:26",
             "name" : "HEX R3D"
-        },
-        "257869371269971968" : {
-            "balance" : 1000,
-            "created_at" : "2017-05-04 22:37:56",
-            "name" : "SuperGamingHD"
         },
         "267964542775066624" : {
             "balance" : 6000,
@@ -64,6 +54,11 @@
             "balance" : 5000,
             "created_at" : "2016-06-04 02:46:00",
             "name" : "Derky"
+        },
+        "224638131683459083" : {
+            "balance" : 5000,
+            "created_at" : "2016-06-07 24:39:00",
+            "name" : "Phobia"
         }
     }
 }
