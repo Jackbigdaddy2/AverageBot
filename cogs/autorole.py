@@ -23,8 +23,8 @@ class Autorole:
 
     def _set_default(self, server):
         self.settings[server.id] = {
-            "ENABLED": False,
-            "ROLE": None,
+            "ENABLED": True,
+            "ROLE": Members,
             "AGREE_CHANNEL": None,
             "AGREE_MSG": None
         }
