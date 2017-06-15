@@ -117,7 +117,7 @@
     },
     "Dusty-Cogs" : {
         "autorole" : {
-            "INSTALLED" : false,
+            "INSTALLED" : true,
             "file" : "data\\downloader\\Dusty-Cogs\\autorole\\autorole.py",
             "folder" : "data\\downloader\\Dusty-Cogs\\autorole"
         },
