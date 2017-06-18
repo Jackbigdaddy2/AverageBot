@@ -466,7 +466,7 @@ class Economy:
         # Originally coded by Airenkun - edited by irdumb
         server = ctx.message.server
         if top < 1:
-            top = 10
+            top = 20
         bank_sorted = sorted(self.bank.get_server_accounts(server),
                              key=lambda x: x.balance, reverse=True)
         bank_sorted = [a for a in bank_sorted if a.member] #  exclude users who left
