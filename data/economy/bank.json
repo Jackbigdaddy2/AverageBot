@@ -1,7 +1,7 @@
 {
     "212257996238094337" : {
         "144433928155955200" : {
-            "balance" : 135191,
+            "balance" : 142191,
             "created_at" : "2017-05-14 01:56:30",
             "name" : "bigdaddy2"
         },
@@ -11,17 +11,17 @@
             "name" : "HeyItsShuga"
         },
         "212257636647698432" : {
-            "balance" : 185000,
+            "balance" : 194000,
             "created_at" : "2017-05-04 01:33:19",
             "name" : "\ud835\udcdc\ud835\udcec\ud835\udcdd\ud835\udcfe\ud835\udcf0\ud835\udcf0\ud835\udcee\ud835\udcfd"
         },
         "212329457032101888" : {
-            "balance" : 124000,
+            "balance" : 128000,
             "created_at" : "2017-05-04 23:49:20",
             "name" : "Mr Rutabaga"
         },
         "250096780048334850" : {
-            "balance" : 0,
+            "balance" : 42000,
             "created_at" : "2017-05-20 03:30:15",
             "name" : "KnightEcho"
         },
@@ -46,7 +46,7 @@
             "name" : "Flandre_24"
         },
         "285245119744049152" : {
-            "balance" : 42000,
+            "balance" : 2000,
             "created_at" : "2016-06-10 03:34:00",
             "name" : "FawnFuzzball294"
         },
